@@ -1,0 +1,146 @@
+[
+  {
+    "_id": {
+      "$oid": "6203fc7192e748e81f1b143f"
+    },
+    "name": "Комплект мойка врезная квадратная WISENT нержавеющая сталь со смесителем цвет нержавеющая сталь, KWS7843-S/4998-4",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303.jpg",
+        "path": "full/2fbead218c815aaa801f3f00b7f94675dad8b17a.jpg",
+        "checksum": "fbf49c5d29dd954a633f59b49cb2caf8",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303_01.jpg",
+        "path": "full/b0d9036121f2f6ef87e03e8d4c0560125de718c5.jpg",
+        "checksum": "3b1cf11ee47cef5a67d7ece38a753f53",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303_02.jpg",
+        "path": "full/8c0a730cadb4c1f90bf88d05b6f7cff3f03cd120.jpg",
+        "checksum": "07966af3ac509edaed58d251cde7534e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303_03.jpg",
+        "path": "full/3acef1086631e01c09f64269ce5783540903bea1.jpg",
+        "checksum": "eb002368f04987469001412fbd3d4654",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303_04.jpg",
+        "path": "full/aa3465a49556845b02b4a3ddf0778935845d5c06.jpg",
+        "checksum": "a2d2bbba9ebd7d8913a0a8283eb2203d",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161303_05.jpg",
+        "path": "full/1f42d501cc7cdee86efe84cd21f96cb72694f01c.jpg",
+        "checksum": "13fb50ac9b3edc668b1beabdfb414f3e",
+        "status": "downloaded"
+      }
+    ],
+    "price": 10774,
+    "url": "https://leroymerlin.ru/product/komplekt-moyka-vreznaya-kvadratnaya-wisent-nerzhaveyushchaya-stal-so-smesitelem-cvet-nerzhaveyushchaya-stal-90161303/"
+  },
+  {
+    "_id": {
+      "$oid": "6203fc7492e748e81f1b1445"
+    },
+    "name": "Комплект мойка врезная квадратная WISENT нержавеющая сталь со смесителем цвет черный",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161302.jpg",
+        "path": "full/9f0c682e24e7c37312bdcf4e119e0055da33be10.jpg",
+        "checksum": "75ddc7cc3003b6c912011f33be623257",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161302_01.jpg",
+        "path": "full/291e712cee056faa9600c6eebe156edd114c32ac.jpg",
+        "checksum": "7599f3b54fa58941f54b5387bc95f780",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161302_02.jpg",
+        "path": "full/3029738bc58be22378447912adbd840872f59867.jpg",
+        "checksum": "e501b4b1beb3d9f0237ab47ac66b65a9",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161302_03.jpg",
+        "path": "full/4be6983333511d45db519d644c8d52dcd79bfa5b.jpg",
+        "checksum": "13fb50ac9b3edc668b1beabdfb414f3e",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/90161302_04.jpg",
+        "path": "full/ace7a2619508edaff880b7f8049bccb8b0535aab.jpg",
+        "checksum": "14b688e862593cd7f6c0ef19e7f53e45",
+        "status": "downloaded"
+      }
+    ],
+    "price": 9990,
+    "url": "https://leroymerlin.ru/product/komplekt-moyka-vreznaya-kvadratnaya-wisent-nerzhaveyushchaya-stal-so-smesitelem-cvet-chernyy-90161302/"
+  },
+  {
+    "_id": {
+      "$oid": "6203fc7992e748e81f1b1459"
+    },
+    "name": "Мойка URBATEC 56x50x20 см, композитный материал, цвет чёрный",
+    "photos": [
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135.jpg",
+        "path": "full/b31b735403103e9116e7d7ad2ea5784049745c2a.jpg",
+        "checksum": "fa9e3f4f530169890d361af5de5ce429",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_01.jpg",
+        "path": "full/214ce12d70db8d0bf43b5977591c97a88fb21fcd.jpg",
+        "checksum": "c5dc8eae9fa647bdd150a216e5d2878f",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_02.jpg",
+        "path": "full/36460969b32d999e94f85f07263a052c727f49d3.jpg",
+        "checksum": "6d1f87b9b6492ab08dae007e72e26564",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_03.jpg",
+        "path": "full/25d6b1504375a9fee4d2a8131427c15d5e26d298.jpg",
+        "checksum": "e2c2c12dba8b192329da0e9c2ba37265",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_04.jpg",
+        "path": "full/1162424675e9a71a3b5f8f1325300dd58eee82da.jpg",
+        "checksum": "c01306878699119ef2408b06c250b360",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_05.jpg",
+        "path": "full/598a937289c9527a0405f7c39609bd690dcca99e.jpg",
+        "checksum": "e598f8584faf8822dac37333c92cccdd",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_06.jpg",
+        "path": "full/9295cf653bf0ba8f893b202b54fd6a575530bcd3.jpg",
+        "checksum": "a30c6ab2ee542034451ef34be4b303ae",
+        "status": "downloaded"
+      },
+      {
+        "url": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82541135_i.jpg",
+        "path": "full/8c4eff86d940e32b85adbac7b71fc5b71608500b.jpg",
+        "checksum": "e9c5485a8027042bd03d37a57335820f",
+        "status": "downloaded"
+      }
+    ],
+    "price": 5890,
+    "url": "https://leroymerlin.ru/product/moyka-urbatec-56x50x20-sm-82541135/"
+  }
+]

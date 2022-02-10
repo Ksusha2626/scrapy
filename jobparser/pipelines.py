@@ -47,14 +47,14 @@ class JobparserPipeline:
         return min_salary, max_salary, cur
 
     def update_db(self, spider, data):
-        collection = self.mongobase[spider.name]
+        db = self.mongobase[f'{spider.name}_db']
+        collection = db[spider.name]
         if 'index' not in collection.index_information():
             collection.create_index('url', name='index', unique=True)
+        collection.replace_one({'url': data['url']}, data, upsert=True)
         pprint(data)
         pprint(collection.count_documents({}))
-
-        collection.replace_one({'url': data['url']}, data, upsert=True)
-        # for job in collection.find({}):
-        #     pprint(job)
+        # for item in collection.find({}):
+        #     pprint(item)
         # collection.drop()
-        # self.client.drop_database('jobs')
+        # self.client.drop_database(spider.name)

@@ -8,7 +8,7 @@ class SuperjobSpider(scrapy.Spider):
     allowed_domains = ['superjob.ru']
     start_urls = ['https://www.superjob.ru/vakansii/qa-engineer.html']
 
-    def parse(self, response: HtmlResponse):
+    def parse(self, response: HtmlResponse, **kwargs):
 
         next_page = response.xpath("//a[contains(@class,'dalshe')]/@href").get()
         if next_page:

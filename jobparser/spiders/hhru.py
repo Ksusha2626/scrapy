@@ -11,7 +11,7 @@ class HhruSpider(scrapy.Spider):
         'https://hh.ru/search/vacancy?area=2&experience=between1And3&text=Qa+engineer'
     ]
 
-    def parse(self, response: HtmlResponse):
+    def parse(self, response: HtmlResponse, **kwargs):
 
         next_page = response.xpath("//a[@data-qa='pager-next']/@href").get()
         if next_page:
